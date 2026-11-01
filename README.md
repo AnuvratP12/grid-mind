@@ -3,7 +3,7 @@
 An end-to-end data science and AI project on the Australian electricity market.
 
 ## Overview
-A data science and AI project on the Australian Energy market by building a complete end-to-end pipeline which covers all major aspects of data science and AI, which helps in answering real energy market questions.
+grid-mind analyses Australia’s National Electricity Market (NEM) using public price and demand data from AEMO. It covers the full pipeline, from data ingestion in Databricks to statistical analysis, machine learning forecasts and an AI agent that answers market questions in plain English. It also includes a benchmark testing how accurately LLMs, RAG and AI agents answer real energy market questions.
 
 ## Tech stack
 Python, SQL, PySpark, Databricks, Delta Lake, dbt, MLflow, LangGraph, FastAPI, Streamlit, Docker
